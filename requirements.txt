@@ -10,3 +10,4 @@ folium>=0.13
 jinja2
 branca
 streamlit_folium
+streamlit-pandas-profiling
