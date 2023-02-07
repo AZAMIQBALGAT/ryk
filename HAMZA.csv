@@ -1,0 +1,51 @@
+﻿ID,DISTRICT,TEHISL,UC,Vaccination_Strategy,Vaccinator_Name,UC_Target,Monthly_Target,Yearly_Target
+1a,Chaman,Chaman,Eidgah,Fix Site,"Sharafudin, Abdul Hayee",52,10,120
+1b,Chaman,Chaman,Eidgah,Outreach,Abdul Hayee,52,21,252
+1c,Chaman,Chaman,Eidgah,Outreach,Sharaf u din,52,21,252
+2a,Chaman,Chaman,College Road,Fix Site,"Aminullah, Hakeem",64,14,168
+2b,Chaman,Chaman,College Road,Outreach,Mr. Aminullah,64,25,300
+2c,Chaman,Chaman,College Road,Outreach,Mr. Hakeem ullah,64,25,300
+3a,Chaman,Chaman,Bughra,Outreach,Bashir ,66,33,396
+3b,Chaman,Chaman,Bughra,Outreach,Hayatullah,66,33,396
+4a,Chaman,Chaman,Daman Aashaizai I,Fix Site,"Faiz, Rafiullah & Bashir ",84,17,204
+4b,Chaman,Chaman,Daman Aashaizai I,Outreach,Faiz ullah Agha,84,24,288
+4c,Chaman,Chaman,Daman Aashaizai I,Outreach,Imran khan,84,22,264
+4d,Chaman,Chaman,Daman Aashaizai I,Outreach,Rafiullah,84,21,252
+5a,Chaman,Chaman,Purana Chamman,Fix Site,Kamal ul din,53,4,48
+5b,Chaman,Chaman,Purana Chamman,Outreach,Kamal ul din,53,22,264
+5c,Chaman,Chaman,Purana Chamman,Fix Site,Ahmed ullah ,53,4,48
+5d,Chaman,Chaman,Purana Chamman,Outreach,Ahmed ullah ,53,23,276
+6a,Chaman,Chaman,Hassan Tekadar,Outreach,Samandar,46,23,276
+6b,Chaman,Chaman,Hassan Tekadar,Outreach,Rahim,46,23,276
+7a,Chaman,Chaman,Roghani I,Fix Site,"Shah jahan, Najeebullah",75,9,108
+7b,Chaman,Chaman,Roghani I,Outreach,Mr. Najeebullah,75,33,396
+7c,Chaman,Chaman,Roghani I,Outreach,Mr. Shah jahan,75,33,396
+8a,Chaman,Chaman,Roghani III,Outreach,Mr. Afzal Bari,140,47,564
+8b,Chaman,Chaman,Roghani III,Outreach,Abdullah,140,46,552
+8c,Chaman,Chaman,Roghani III,Outreach,Qudrat,140,47,564
+9a,Chaman,Chaman,Girdi Paneki I,Fix Site,"Ahmed Jan, Abdullah jan",42,8,96
+9b,Chaman,Chaman,Girdi Paneki I,Outreach,Mr. Ahmed Jan,42,17,204
+9c,Chaman,Chaman,Girdi Paneki I,Outreach,Mr. Abdullah jan,42,17,204
+10a,Killa Abdullah,Deobandi,Jilga II,Outreach,Arman Ali,30,10,120
+11a,Killa Abdullah,Killa Abdullah,Jungle Camp I,Outreach,Mr. Muhammad Gull,44,22,264
+11b,Killa Abdullah,Killa Abdullah,Jungle Camp I,Outreach,Mr.Aziz Khan,44,22,264
+12a,Killa Abdullah,Killa Abdullah,Jungle Camp II ,Outreach,Mr. Sharafuddin,59,17,204
+12b,Killa Abdullah,Killa Abdullah,Jungle Camp II ,Outreach,Mr. Shabir,59,17,204
+12c,Killa Abdullah,Killa Abdullah,Jungle Camp II ,Outreach,Mr. Shamsullah,59,25,300
+13a,Killa Abdullah,Killa Abdullah,KA I,Fix Site,Natasha Bibi,38,2,24
+13b,Killa Abdullah,Killa Abdullah,KA I,Outreach,Mr. Hikmatullah,38,16,192
+13c,Killa Abdullah,Killa Abdullah,KA I,Outreach,Mr. Arslan Khan,38,20,240
+14a,Killa Abdullah,Killa Abdullah,Killa Abdullah III,Outreach,Mr. Zafar Ali,43,21,252
+14b,Killa Abdullah,Killa Abdullah,Killa Abdullah III,Outreach,Muhammad Rafique ,43,22,264
+15a,Killa Abdullah,Killa Abdullah,Piralazi I,Fix Site,Mr. Irfanullah,39,1,12
+15b,Killa Abdullah,Killa Abdullah,Piralazi I,Outreach,Mr. Zahoor Ahmed,39,10,120
+15c,Killa Abdullah,Killa Abdullah,Piralazi I,Outreach,Mr. Hameedullah,39,15,180
+15d,Killa Abdullah,Killa Abdullah,Piralazi I,Outreach,Mr. Irfanullah,39,13,156
+16a,Killa Abdullah,Killa Abdullah,Piralazi 2,Fix Site,M.Saddiqeullah,40,2,24
+16b,Killa Abdullah,Killa Abdullah,Piralazi 2,Outreach,M.Saddiqeullah,40,18,216
+16c,Killa Abdullah,Killa Abdullah,Piralazi 2,Fix Site,Ms. Arifa Rasheed,40,2,24
+16d,Killa Abdullah,Killa Abdullah,Piralazi 2,Outreach,Mr. HafeezurRehman,40,18,216
+17a,Killa Abdullah,Gulistan,Norak Suleman Khail,Fix Site,Sabir Khan,28,2,24
+17b,Killa Abdullah,Gulistan,Norak Suleman Khail,Outreach,Sabir Khan,28,26,312
+18a,Killa Abdullah,Gulistan,Shamsozai,Outreach,Mr. Muhammad Sulman,31,17,204
+18b,Killa Abdullah,Gulistan,Shamsozai,Outreach,Mr. Abdul Manaf,31,14,168
