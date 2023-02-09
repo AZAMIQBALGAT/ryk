@@ -136,7 +136,8 @@ for i in range(len(place_lat)):
 for index,lat in enumerate(place_lat):
     folium.Marker([lat, 
                 place_lng[index]],
-                popup=('Bus Station{} \n '.format(index))
+#                 popup=('Bus Station{} \n '.format(index))
+                 popup=('ID {} \n '.format(index))
                 ,icon = folium.Icon(color='blue',icon_color='white',prefix='fa', icon='bus')
                 ).add_to(m)
 
