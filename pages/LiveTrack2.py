@@ -133,7 +133,8 @@ for i in range(len(place_lat)):
     points.append([place_lat[i], place_lng[i]])
 
 # specify an icon of your desired shape or chosing in place for the coordinates points
-for index,lat in enumerate(place_lat):
+# for index,lat in enumerate(place_lat):
+for index,lat in enumerate(place_lat, start=1):
     folium.Marker([lat, 
                 place_lng[index]],
 #                 popup=('Bus Station{} \n '.format(index))
