@@ -21,11 +21,25 @@ hide_menu_style = """
     """
 st.markdown(hide_menu_style, unsafe_allow_html=True)
 
+# Ya code app ko fast karny ka lia ha
+@st.experimental_memo
+# @st.experimental_singleton()
+def load_data():
+# df=load_data.clear()
+    #loading online csv
+    data="https://kobo.humanitarianresponse.info/api/v2/assets/aBt8DD5imGGKe8aAG8o3na/export-settings/esSYZkSfHtwYfY2tpLGyGxN/data.csv"#,";")
+    # s = requests.get(url).content
+    data=pd.read_csv(data, on_bad_lines='skip', sep=";")
+    df = pd.DataFrame(data)
 
-#loading online csv
-url="https://kobo.humanitarianresponse.info/api/v2/assets/aBt8DD5imGGKe8aAG8o3na/export-settings/esSYZkSfHtwYfY2tpLGyGxN/data.csv"#,";")
-#s = requests.get(url).content
-data=pd.read_csv(url, on_bad_lines='skip', sep=";")
+    return df
+if st.button("Click Me To Get Refresh Data"):
+    # Clears all singleton caches:
+#     st.experimental_singleton.clear()
+    load_data.clear()
+df=load_data()
+
+
 pr = data.profile_report()
 st_profile_report(pr)
 # df.head()
