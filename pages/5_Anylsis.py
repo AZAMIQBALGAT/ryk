@@ -39,8 +39,7 @@ if st.button("Click Me To Get Refresh Data"):
     load_data.clear()
 df=load_data()
 
-
-pr = data.profile_report()
+pr = df.profile_report()
 st_profile_report(pr)
 # df.head()
 # profile = ProfileReport(df, title="Pandas Profiling Report")
